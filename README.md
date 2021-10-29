@@ -1,4 +1,9 @@
-## Module 11 Challenge. UFOs Sightings website
+# Objectives
+
+The main objective of this project is to utilize javascript  for dynamic table and filter update functionalities.
+
+
+##  Challenge. UFOs Sightings website
 The website has been finished, and the article is ready to go, but after a final look at her work, Dana feels that it could be improved even more. Instead of filtering by a single item, why not provide her readers with the ability to filter by multiple factors? The ability to search a city or country or even combine a date with a location would make Dana's application that much more robust.
 
 ## Resources
