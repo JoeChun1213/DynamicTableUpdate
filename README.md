@@ -7,8 +7,6 @@ The main objective of this project is to utilize javascript  for dynamic table a
 The website has been finished, and the article is ready to go, but after a final look at her work, Dana feels that it could be improved even more. Instead of filtering by a single item, why not provide her readers with the ability to filter by multiple factors? The ability to search a city or country or even combine a date with a location would make Dana's application that much more robust.
 
 ## Resources
-- Image Source: https://unsplash.com/photos/jGN7JUKZcU0
-- Image: nasa.jpg
 - Input: data.js
 - Software: Javascript, VS Code,  Bootstrap
 
@@ -23,6 +21,11 @@ Website uses Javscript code to initalize and filter a javascript data table of U
 
 ## enhancements
 Website was adjusted to accept only lowcase input (since the table is all in lower case) Other visual formatting added such as alternate color rows for better visability
+
+The sample of the table along with the search tab for dynamic filtering is shown below:
+
+
+![](UFOtable.png)
 
 ## Recomendations
 This website could look at improving its data sources and storage. Perhaps utlizing a combination of web scraping and sql could make the website more dynamic and easier to update.
